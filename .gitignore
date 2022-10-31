@@ -1,0 +1,15 @@
+miniRT
+fs_miniRT
+a.out
+obj
+*.o
+*.a
+libft.a
+tests
+results
+libmlx42.a
+.DS_Store
+.vscode
+mlx_frag_shader.c
+mlx_vert_shader.c
+*.dSYM
